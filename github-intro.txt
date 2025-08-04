@@ -1,0 +1,3 @@
+1. GitHub is a remote repository.
+2. Here you can find all the commits and braches you've made so far
+3. GitHub is also widely used to collaborate with other develpoers when working on the same project
